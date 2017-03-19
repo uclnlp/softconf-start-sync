@@ -28,7 +28,7 @@ The easiest way to start working with the tool is to:
 
 Install the tool from the following URL:
 
-> TBD
+> https://chrome.google.com/webstore/detail/softconf-start-sync/kjbckhokbhhnhimelcfjcajiejbmbcnc
 
 ## Setup
 

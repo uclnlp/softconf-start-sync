@@ -52,10 +52,14 @@ This URL is used to generate URLs to papers, PDFs, discussions and reviews.
 
 ## Exporting Softconf START data as a service
 
+START now allows area chairs to access a web service that provides internal spreadsheets via http requests. Our tool makes use of this service. To enable this service, area chairs need to explicitly activate it. To do so, the area chair must:
 
-TBD
-
-
+1) Go to the area **management console**
+2) Click on **spreadsheet maker**
+3) Click on the **Reports** tab
+4) Activate the **csv** checkbox
+5) Click on **Generate Webservice**
+6) Copy and paste the **Webservice URL** into the **Reports URL** field of the setup form for our tool. 
 
 ## First sync
 
